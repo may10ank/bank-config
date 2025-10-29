@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to Bank payment related local APIs "
+  contactDetails:
+    name: "Aarav Mehta - Developer"
+    email: "aarav.mehta@bank.com"
+  onCallSupport:
+   - (628) 555-1298
+   - (347) 880-4726
